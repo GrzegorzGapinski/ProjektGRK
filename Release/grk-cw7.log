@@ -1,0 +1,25 @@
+﻿  Using triplet "x86-windows" from "C:\Users\Andrzej\Desktop\openvdb\vcpkg\installed\x86-windows\"
+  main_7.cpp
+C:\Users\Andrzej\Desktop\grk\zipy\grk-cw\cw 7\src\main_7.cpp(122,10): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Andrzej\Desktop\grk\zipy\grk-cw\cw 7\src\main_7.cpp(123,10): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Andrzej\Desktop\grk\zipy\grk-cw\cw 7\src\main_7.cpp(158,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Andrzej\Desktop\grk\zipy\grk-cw\cw 7\src\main_7.cpp(160,63): warning C4244: 'argument': conversion from 'glm::tvec3<float,glm::packed_highp>::length_type' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Andrzej\Desktop\grk\zipy\grk-cw\cw 7\src\main_7.cpp(249,61): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Andrzej\Desktop\grk\zipy\grk-cw\cw 7\src\main_7.cpp(319,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Andrzej\Desktop\grk\zipy\grk-cw\cw 7\src\main_7.cpp(325,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Andrzej\Desktop\grk\zipy\grk-cw\cw 7\src\main_7.cpp(350,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Andrzej\Desktop\grk\zipy\grk-cw\cw 7\src\main_7.cpp(367,20): warning C4018: '<': signed/unsigned mismatch
+  Generating code
+  3 of 1026 functions ( 0.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    14 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+PhysXExtensions_static_32.lib(ExtCpuWorkerThread.obj) : warning LNK4099: PDB 'PhysXExtensions_static_32.pdb' was not found with 'PhysXExtensions_static_32.lib(ExtCpuWorkerThread.obj)' or at 'C:\Users\Andrzej\Desktop\grk\zipy\grk-cw\Release\PhysXExtensions_static_32.pdb'; linking object as if no debug info
+PhysXExtensions_static_32.lib(ExtDefaultCpuDispatcher.obj) : warning LNK4099: PDB 'PhysXExtensions_static_32.pdb' was not found with 'PhysXExtensions_static_32.lib(ExtDefaultCpuDispatcher.obj)' or at 'C:\Users\Andrzej\Desktop\grk\zipy\grk-cw\Release\PhysXExtensions_static_32.pdb'; linking object as if no debug info
+PhysXExtensions_static_32.lib(ExtDefaultErrorCallback.obj) : warning LNK4099: PDB 'PhysXExtensions_static_32.pdb' was not found with 'PhysXExtensions_static_32.lib(ExtDefaultErrorCallback.obj)' or at 'C:\Users\Andrzej\Desktop\grk\zipy\grk-cw\Release\PhysXExtensions_static_32.pdb'; linking object as if no debug info
+PhysXExtensions_static_32.lib(ExtDefaultSimulationFilterShader.obj) : warning LNK4099: PDB 'PhysXExtensions_static_32.pdb' was not found with 'PhysXExtensions_static_32.lib(ExtDefaultSimulationFilterShader.obj)' or at 'C:\Users\Andrzej\Desktop\grk\zipy\grk-cw\Release\PhysXExtensions_static_32.pdb'; linking object as if no debug info
+  grk-cw7.vcxproj -> C:\Users\Andrzej\Desktop\grk\zipy\grk-cw\Release\grk-cw7.exe
